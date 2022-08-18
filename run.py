@@ -8,6 +8,7 @@ try:
 except:
     print("PyTelegramBotAPI is not installed! Installing PyTelegramBotAPI for you...\n")
     os.system("python3 -m pip install PyTelegramBotAPI")
+    print("\n\nRun the bot again")
 
 # Add config file
 config = open("config.py", "r").read()
