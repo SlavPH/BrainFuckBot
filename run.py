@@ -29,7 +29,7 @@ def start_command(message):
     bot.reply_to(message, Start.format(first_name))
 
 # Help command
-@bot.message_handler(commands=["help"])
+@bot.message_handler(commands=["help"]) 
 def start_command(message):
     global Help
     first_name = message.from_user.first_name
