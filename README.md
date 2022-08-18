@@ -34,7 +34,7 @@
 
 
 # Shoutout to pocmo
-https://github.com/pocmo/Python-Brainfuck 
+https://github.com/pocmo/Python-Brainfuck                                        
 Thanks for your Brainfuck interpreter
 
 > Thanks 
