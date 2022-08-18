@@ -2,7 +2,7 @@
 >Simple Brainfuck compiler (or interpreter) Telegram bot using "PyTelegramBotAPI" 
 
 # Requirements              
-**[1]** `PyTelegramBotAPI` it will installed automatically!                          
+**[1]** `PyTelegramBotAPI` it will be installed automatically!                          
 **[2]** `Telegram Bot token` get it from @botfather
 
 # Installation                    
