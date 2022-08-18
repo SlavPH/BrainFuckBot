@@ -2,6 +2,7 @@
 
 # Libraries
 import os
+import sys
 import time
 try:
     import telebot
@@ -9,6 +10,7 @@ except:
     print("PyTelegramBotAPI is not installed! Installing PyTelegramBotAPI for you...\n")
     os.system("python3 -m pip install PyTelegramBotAPI")
     print("\n\nRun the bot again")
+    sys.exit()
 
 # Add config file
 config = open("config.py", "r").read()
