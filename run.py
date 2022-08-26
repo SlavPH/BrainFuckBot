@@ -16,6 +16,9 @@ except:
 config = open("config.py", "r").read()
 exec(config)
 
+# Clear terminal
+os.system('cls' if os.name == 'nt' else 'clear')
+
 # Define bot
 bot = telebot.TeleBot(Token)
 print(Running) # Prints running message
