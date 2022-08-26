@@ -1,5 +1,5 @@
 # BrainFuckBot
->Simple Brainfuck compiler (or interpreter) Telegram bot using "PyTelegramBotAPI" 
+>Simple Brainfuck compiler (or interpreter) Telegram bot using **telebot** 
 
 # Requirements              
 **[1]** `PyTelegramBotAPI` it will be installed automatically!                          
