@@ -26,11 +26,7 @@
 **[2]** `git clone https://github.com/SlavPH/BrainFuckBot`                             
 **[3]** `cd BrainFuckBot`               
 **[4]** `chmod +x *`                  
-**[5]** `./run.py`                                        
-
-# Social Media
-[Instagram](https://instagram.com/theslavph)                                                 
-[Telegram](https://telegram.me/theslavph)                                     
+**[5]** `./run.py`                                                                           
 
 
 # Shoutout to pocmo                           
